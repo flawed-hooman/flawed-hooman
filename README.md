@@ -11,10 +11,10 @@
 <br />
 
 - 🎓 B.Tech in Computer Science and Engineering (2022-2026)
-- 🎯 I'm a Machine Learning and Deep Learning Enthusiast.
-- 🧠 I'm also grinding my Competitive Programming Skills.
-- 🥇 Recieved AnitaB.org's scholarship to attend Grace Hopper Conf'24.
-- 🖥️ I’m looking to work on new and interesting projects.
+- 🎯 A Machine Learning and Deep Learning Enthusiast
+- 🧠 Also grinding my Competitive Programming Skills
+- 🥇 Recieved AnitaB.org's scholarship to attend Grace Hopper Conf'24
+- 🖥️ Looking to work on new and interesting projects
 - 🔭 Hobbies: Reading | Graphic Design | Photography
 - ✉️ Contact me at urnishapaul05@gmail.com
 
