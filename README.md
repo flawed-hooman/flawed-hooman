@@ -34,12 +34,12 @@
 <br /> <br />
 
 <hr />
-<div align="center">
+<!-- <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=flawed-hooman&show_icons=true&include_all_commits=true&theme=radical" alt="Urnisha's github stats" />
 </a>
   </div>
-
+ -->
 
 <!--
 
