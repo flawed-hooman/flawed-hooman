@@ -2,7 +2,7 @@
 
 ## 🔗 Know more about me 
 
-[![Resume](https://img.shields.io/badge/-Resume-black?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1WXTELITiMjb5fzaeD6MH2bwGGDWOKrUJ/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/-Resume-black?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1P0t5POPStKKnWz6d1fIR1_wCV8uMY8L5/view?usp=sharing)
 [![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:urnishapaul05@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-Urnisha-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/urnisha-paul-277689254/)
 [![Leetcode](https://img.shields.io/badge/-flawed_hooman-black?style=for-the-badge&logo=Leetcode)](https://leetcode.com/u/flawed_hooman/)
