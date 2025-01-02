@@ -4,7 +4,7 @@
 
 [![Resume](https://img.shields.io/badge/-Resume-black?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1P0t5POPStKKnWz6d1fIR1_wCV8uMY8L5/view?usp=sharing)
 [![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:urnishapaul05@gmail.com)
-[![Linkedin](https://img.shields.io/badge/-Urnisha-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/urnisha-paul-277689254/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/urnisha-paul-277689254/)
 [![Leetcode](https://img.shields.io/badge/-flawed_hooman-black?style=for-the-badge&logo=Leetcode)](https://leetcode.com/u/flawed_hooman/)
 [![Codeforces](https://img.shields.io/badge/-Urnisha_p-black?style=for-the-badge&logo=Codeforces)](https://codeforces.com/profile/Urnisha_p)
 
